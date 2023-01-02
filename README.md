@@ -1,4 +1,5 @@
-Welcome to my programming skills-I repository on GitHub! This repository contains a collection of programming problems and solutions that I have worked on from the [website]([(https://leetcode.com/study-plan/programming-skills/?progress=x7t0lqkt])
+Welcome to my programming skills-I repository on GitHub! This repository contains a collection of programming problems and solutions that I have worked on from the website leetcode.com
+
 
 LeetCode is a popular platform for preparing for technical interviews and improving programming skills. It contains a vast library of practice problems and challenges in a variety of languages, with an active community of developers who contribute solutions and discuss problem-solving approaches.
 
