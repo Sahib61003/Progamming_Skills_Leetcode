@@ -15,4 +15,5 @@ public:
     3. It enters a range-based loop that iterates through the elements of accounts, which are themselves vectors of integers representing the wealth of individual account holders. The loop variable is a reference to a vector of integers named v.
     4. For each iteration of the loop, it calculates the sum of the elements of v using the accumulate function and updates ans with the maximum of ans and the sum.
     5. After the loop finishes executing, the function returns the value of ans.
+    
 */
