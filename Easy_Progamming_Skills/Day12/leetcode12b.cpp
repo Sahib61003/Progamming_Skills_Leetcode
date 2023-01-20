@@ -12,6 +12,7 @@ public:
         return preSum[right] - preSum[left-1];
     }
 };
+
 /**
  * Your NumArray object will be instantiated and called as such:
  * NumArray* obj = new NumArray(nums);
