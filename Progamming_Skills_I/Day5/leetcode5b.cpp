@@ -9,6 +9,7 @@ public:
                     break;
                 }
             }
+            
             int k = j + 1;
             for (; k < nums2.size(); k++) {
                 if (nums2[k] > nums1[i]) {
